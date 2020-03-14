@@ -29,11 +29,14 @@
 
 你的工作是为两手牌判断大小。
 
-
+```
+main.cpp为最终的程序
+test.cpp为测试程序
+```
 
 ##### 测试结果
 
-![https://github.com/BuerAkun1024/web_task_03/blob/master/test01.png]()
+ ![pic](https://github.com/BuerAkun1024/web_task_03/blob/master/test01.png)
+ ![pic](https://github.com/BuerAkun1024/web_task_03/blob/master/test02.png)
 
-![https://github.com/BuerAkun1024/web_task_03/blob/master/test02.png]()
 
