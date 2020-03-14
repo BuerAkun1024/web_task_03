@@ -1,4 +1,4 @@
-##### 题目：
+###### 题目：
 
 一副扑克有52张牌，每张牌由一个花色和一个数字构成。
 
@@ -34,7 +34,7 @@ main.cpp为最终的程序
 test.cpp为测试程序
 ```
 
-##### 测试结果
+###### 测试结果
 
  ![pic](https://github.com/BuerAkun1024/web_task_03/blob/master/test01.png)
  ![pic](https://github.com/BuerAkun1024/web_task_03/blob/master/test02.png)
